@@ -1,4 +1,4 @@
-# SORTING ARRAY BY INCREASING FREQUENCY
+1. # SORTING ARRAY BY INCREASING FREQUENCY
 
 ## Explanation:
 1.**Counting Frequencies:** The Counter class from the collections module is used to count the frequency of each number in the array.
@@ -11,7 +11,7 @@
 4.**Returning the Result:** The sorted array is returned directly.
 
 
-# REVERSE INTEGER
+2. # REVERSE INTEGER
 
 ## Explanation:
 
